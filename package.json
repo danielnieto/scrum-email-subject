@@ -1,0 +1,19 @@
+{
+  "name": "scrum-email-subject",
+  "version": "1.0.0",
+  "description": "Scrum Email Subject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danielnieto89@gmail.com",
+  "license": "ISC",
+  "bin": {
+    "ses": "./index.js",
+    "scrum-email-subject": "./index.js"
+  },
+  "dependencies": {
+    "clipboardy": "^2.2.0",
+    "dateformat": "^3.0.3"
+  }
+}
