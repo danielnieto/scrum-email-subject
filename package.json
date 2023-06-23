@@ -13,7 +13,7 @@
     "scrum-email-subject": "./index.js"
   },
   "dependencies": {
-    "clipboardy": "^2.2.0",
+    "clipboardy": "^3.0.0",
     "dateformat": "^3.0.3"
   }
 }
